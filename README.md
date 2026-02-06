@@ -63,48 +63,28 @@
 
 ---
 
-<!-- <h3>📫 Contact</h3>
+<h3>📫 Contact</h3>
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
+
   <a href="https://www.linkedin.com/in/yousef-alaa-mohammed-9b3540326/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   🚀 Building the future, one line of code at a time
-</p> -->
+</p> 
 
 
 
-<section id="contact" style="text-align:center; padding:40px 0;">
-  <h2>📬 Contact Me</h2>
 
-  <div style="margin-top:20px; display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
 
-    <!-- Email -->
-    <a href="mailto:your.email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-    </a>
-
-    <!-- GitHub -->
-    <a href="https://github.com/yourusername" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-    </a>
-
-    <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/yourusername" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-    </a>
-
-    <!-- WhatsApp -->
-    <a href="https://wa.me/201234567890" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-    </a>
-
-  </div>
-</section>
 
