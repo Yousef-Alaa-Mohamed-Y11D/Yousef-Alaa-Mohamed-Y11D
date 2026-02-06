@@ -5,11 +5,11 @@
 <h3 align="center">
   Full Stack .NET & Angular Developer
 </h3>
-
 <p align="center" style="display:flex; justify-content:center; align-items:center; gap:6px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="16" alt="Egypt Flag"/>
-  <span>Egypt</span>
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="18" alt="علم مصر"/>
+  <span>مصر</span>
 </p>
+
 
 
 ---
