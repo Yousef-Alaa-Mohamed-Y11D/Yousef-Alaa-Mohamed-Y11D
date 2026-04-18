@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:6366f1,100:10b981&height=160&section=header&text=Yousef%20Alaa&fontSize=52&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=Full%20Stack%20.NET%20%26%20Angular%20Developer&descSize=18&descAlignY=80&descColor=b0c4de" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:6366f1,100:10b981&height=160&section=header&text=Yousef%20Alaa&fontSize=52&fontColor=ffffff&fontAlignY=62&animation=fadeIn&desc=Full%20Stack%20.NET%20%26%20Angular%20Developer&descSize=18&descAlignY=80&descColor=b0c4de](https://learn.microsoft.com/ar-sa/training/media/products/dotnet/dotnet-overview.png)" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%26+Angular+Developer;Clean+Architecture+%7C+SOLID+%7C+DRY;Building+Scalable+%26+Maintainable+Web+Apps)](https://git.io/typing-svg)
 
