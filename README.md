@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://learn.microsoft.com/ar-sa/training/media/products/dotnet/dotnet-overview.png" width="100%"/>
+<img  src="https://learn.microsoft.com/ar-sa/training/media/products/dotnet/dotnet-overview.png" width="20%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%26+Angular+Developer;Clean+Architecture+%7C+SOLID+%7C+DRY;Building+Scalable+%26+Maintainable+Web+Apps)](https://git.io/typing-svg)
 
