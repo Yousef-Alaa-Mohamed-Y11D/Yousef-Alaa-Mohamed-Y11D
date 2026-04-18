@@ -57,5 +57,3 @@ Git • GitHub • Postman • Visual Studio • VS Code
 - 📊 Angular Dashboard
 - 🔐 Auth Microservice
 - ⚙️ Full Stack App (.NET + Angular)
- 
-قولّي وأنا أبني معاك واحدة خطوة خطوة 👍
