@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-alaa-mohammed-9b3540326/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousefAlaa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yousef-Alaa-Mohamed-Y11D)
 
 <img src="https://komarev.com/ghpvc/?username=YousefAlaa&color=38bdf8&style=flat-square&label=Profile+Views" />
 
